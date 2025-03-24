@@ -1,0 +1,21 @@
+.padding-side{
+    padding: 0 2rem;
+}
+.bg{
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+}
+.topright{
+    width: 12rem;
+    margin: 2rem 0 3rem 0;
+}
+.header-text{
+    font-family: Poppins;
+    font-weight: 600;
+}
+.body-text{
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
